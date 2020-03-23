@@ -9,3 +9,9 @@ body p {
 	color: red;
 	height: 70;
 }
+
+body table {
+	position: center;
+	text-align: center;
+	flex-direction: column;
+}
